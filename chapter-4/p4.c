@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-// Multiplication of 5
+// Multiplication of n numbers using while loop
 
 int main()
 {
