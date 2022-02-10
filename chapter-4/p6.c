@@ -1,19 +1,18 @@
 #include <stdio.h>
 
+// Multiplication of n numbers using for loop [Using Addition technique]
+
 int main()
 {
-    int n = 1, limit;
-    printf("Enter a number: ");
-    scanf("%d", &limit);
-    while (n <= 100)
-    {
-        printf("%d\n", n);
-        n++;
+    int n, i = 1, m = 0;
+    printf("Enter the number: ");
+    scanf("%d", &n);
 
-        if (n > limit)
-        {
-            break;
-        }
+    for (; i <= 10;)
+    {
+        m = m + n;
+        printf("%d * %d = %d\n", n, i, m);
+        i++;
     }
     return 0;
 }
