@@ -24,4 +24,6 @@ int main()
 
     // Display the value of x & y
     printf("The value of x is %0.2lf & y is %0.2lf", x, y);
+
+    return 0;
 }
