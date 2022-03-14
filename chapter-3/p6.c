@@ -1,5 +1,5 @@
 #include <stdio.h>
-// Or operator
+// Or operator.
 int main()
 {
     int n;
