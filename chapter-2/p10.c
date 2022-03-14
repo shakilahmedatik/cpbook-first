@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+// program to tryout char
 int main()
 {
     int num1, num2;
