@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-// 1,2,3 numbers all possible permutations from lowest to highest orders
+// 1,2,3 numbers all possible permutations from lowest to highest orders.
 
 int main()
 {
