@@ -1,4 +1,4 @@
-// Result Calculator in c
+// Result Calculator in c.
 #include <stdio.h>
 #define size 20
 int main()
