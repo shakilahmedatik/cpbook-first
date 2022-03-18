@@ -1,3 +1,5 @@
+// Functions in c with prototype.
+
 #include <stdio.h>
 double add(double x, double y);
 
