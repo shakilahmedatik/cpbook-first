@@ -1,4 +1,4 @@
-// Binary Search in C using functions
+// Binary Search in C using functions.
 
 #include <stdio.h>
 
