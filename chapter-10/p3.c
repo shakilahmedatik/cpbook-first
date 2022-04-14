@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <math.h>
-
+// Find prime number in C
 int is_prime(n)
 {
     int i, root;
